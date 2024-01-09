@@ -1,0 +1,41 @@
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.AssemblyReference.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csprojAssemblyReference.cache
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\h022839l\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\_supplied files\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.AssemblyReference.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\Darren Halpin\OneDrive - Staffordshire University\SDAM\SEMESTER-02\Assessment 2\Part-02\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache
